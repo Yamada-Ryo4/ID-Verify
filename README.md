@@ -1,9 +1,11 @@
 # 身份证号码解析与生成器 (Liquid Glass UI)
 
+## 以下README为Gemini编写，本项目也由Gemini生成
+
 一个基于**液态玻璃 (Liquid Glass)** 设计风格的中国大陆居民身份证号码解析与生成工具。本项目将复杂的功能逻辑与现代、沉浸式的视觉体验相结合，全部代码封装在一个独立的HTML文件中，无需任何依赖或构建步骤，即开即用。
 
-![项目截图](https://i.imgur.com/8Qp2Lg7.gif)
-*<p align="center">👆 项目动态效果预览</p>*
+![项目截图](https://pub-681fd15ba1da46678479fcb69a8fc7a6.r2.dev/preview.png)
+*<p align="center">👆 项目效果预览</p>*
 
 ## 🎨 设计与视觉
 
