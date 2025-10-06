@@ -7,6 +7,10 @@
 ![项目截图](https://pub-681fd15ba1da46678479fcb69a8fc7a6.r2.dev/preview.png)
 *<p align="center">👆 项目效果预览</p>*
 
+## 🌐 在线预览 (Live Demo)
+
+👉 **[点击这里在线体验](https://idverify-1lc.pages.dev/)**
+
 ## 🎨 设计与视觉
 
 本项目的核心是其独特的视觉设计，旨在提供一种流动、通透、具有高级质感的交互体验：
@@ -63,7 +67,10 @@
 3.  即可开始使用。
 
 
-## 作者 𝕏 https://x.com/Yamada_Ryoooo
+
+## 👉**项目作者[𝕏@Yamada_Ryoooo](https://x.com/Yamada_Ryoooo)**
+
+
 
 ## 📄 文件结构
 
@@ -80,13 +87,13 @@
 <body>
     <svg style="display: none">
       <filter id="glass-distortion">
-        </filter>
+      </filter>
     </svg>
 
     <nav class="glass-navbar ...">...</nav>
     <header class="glass-hero ...">...</header>
     <main class="container">
-        </main>
+    </main>
     <footer class="footer">...</footer>
 
     <script>
