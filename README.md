@@ -62,6 +62,9 @@
 2.  使用任何现代浏览器（如 Chrome, Firefox, Edge, Safari）打开该文件。
 3.  即可开始使用。
 
+
+## 作者 𝕏 https://x.com/Yamada_Ryoooo
+
 ## 📄 文件结构
 
 所有代码都包含在 `index.html` 中，其内部结构如下：
